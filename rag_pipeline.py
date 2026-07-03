@@ -18,6 +18,7 @@ def load_documents():
         chunk_overlap=50
     )
 
+
     chunks = splitter.split_text(text)
 
     return chunks
