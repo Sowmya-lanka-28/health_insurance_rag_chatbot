@@ -72,7 +72,6 @@ health_insurance_rag_chatbot/
 
 ├── README.md
 
-└── images/
 
 ---
 
@@ -120,29 +119,7 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
 
-(Add screenshots here)
-
-Example:
-
-Home Page
-
-Chatbot Response
-
-Workflow
-
----
-
-## 🔮 Future Enhancements
-
-- PDF upload support
-- Multi-document search
-- Voice-based interaction
-- Chat history
-- Azure OpenAI integration
-
----
 
 ## 👩‍💻 Author
 
